@@ -1,0 +1,11 @@
+Functional Programming
+
+While its roots are in lambda calculus,
+functional programming can be fun, easy, and
+approachable for everyone!
+By focusing on breaking problems down into simple,
+side-effect free, functions we can ensure fewer bugs,
+better test coverage, while incrementally
+building our solutions through the composition of well tested functions.
+
+(Why Elixir? 2021)
